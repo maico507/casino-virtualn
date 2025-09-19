@@ -1,0 +1,1 @@
+// React componente base
